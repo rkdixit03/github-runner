@@ -72,7 +72,7 @@ kind: Secret
 metadata:
   name: github-secret
 stringData:
-  GITHUB_PAT: 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
+  GITHUB_PAT: ghp_XXXXXXXXXXXX
 ```
 
 ```sh
